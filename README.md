@@ -1,2 +1,0 @@
-# IrregularVerbsDuo
-SmartApp
